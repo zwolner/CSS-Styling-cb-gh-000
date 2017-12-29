@@ -1,0 +1,11 @@
+/*StyleSheet
+*/
+/* CSS Syntac
+selector {
+
+} */
+
+p { /* select all <p> */
+  font-size: 1em;
+  line-height: 1.5em
+}

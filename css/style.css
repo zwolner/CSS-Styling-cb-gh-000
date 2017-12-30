@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps');
+/*StyleSheet
+*/
+/* CSS Syntac
+selector {
+
+Type selector
+*/
+
+p { /* select all <p> */
+  font-size: 1em;
+  line-height: 1.5em
+}
+
+figcaption {
+  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
+  color: #777;
+  text-align: right;
+}
